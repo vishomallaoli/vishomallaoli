@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Visho</h1>
 <h3 align="center">A full stack AI Software Engineer</h3>
+<img align="right" alt="Visho's Image" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcodina&psig=AOvVaw3E9dDZ-x1cFKTxIqWpw2jG&ust=1729802626608000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjgsoqvpYkDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishomallaoli&label=Profile%20views&color=0e75b6&style=flat" alt="vishomallaoli" /> </p>
 
