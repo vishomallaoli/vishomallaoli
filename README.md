@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Visho</h1>
 <h3 align="center">A full stack AI Software Engineer</h3>
-<img align="right" alt="Visho's Image" width = "400" src = "https://www.vishomallaoli.com/assets/visho3-BPagifTE.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishomallaoli&label=Profile%20views&color=0e75b6&style=flat" alt="vishomallaoli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishomallaoli" alt="vishomallaoli" /></a> </p>
+<img align="right" alt="Visho's Image" width = "400" src = "https://www.vishomallaoli.com/assets/visho3-BPagifTE.jpeg">
 
 - 🔭 I’m currently working on [DiaDetect](https://github.com/vishomallaoli/dia-detect)
 
