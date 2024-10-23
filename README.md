@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishomallaoli&label=Profile%20views&color=0e75b6&style=flat" alt="vishomallaoli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishomallaoli" alt="vishomallaoli" /></a> </p>
-<img align="right" alt="Visho's Image" width = "400" src = "https://www.vishomallaoli.com/assets/visho3-BPagifTE.jpeg">
+<img align="right" alt="Visho's Image" width = "400" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 - 🔭 I’m currently working on [DiaDetect](https://github.com/vishomallaoli/dia-detect)
 
