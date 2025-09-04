@@ -16,17 +16,15 @@
 
  <img align="right" alt="Visho's Image" width = "400" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
  
-- 👾 Honors Computer Science Senior
+- 👾 Honors Computer Science Senior | Class of 2026 @ [Ole Miss](https://olemiss.edu)
 
-- 🎓 Class of 2026 @ [Ole Miss](https://olemiss.edu)
-
-- 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema)
+- 🚩 I'm currently researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema)
 
 - 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)
 
-- 🪜 Interned @ [Insituform](https://www.azuria.com/insituform) on Summer 2025
+- 🪜 Last summer, I interned @ [Insituform](https://www.azuria.com/insituform) as Manufacturing Analyst
 
-- 👯 I’m collaborating with Fellowship.AI on [LLM Financial Web Agent](https://github.com/vishomallaoli/binary-image-growing-algorithm)
+- 🦍 Summer 2023, I worked with [Fellowship.AI](https://www.fellowship.ai) building Financial [AI Agents](https://github.com/vishomallaoli/binary-image-growing-algorithm).
 
 - 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)
 
