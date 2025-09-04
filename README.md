@@ -25,13 +25,13 @@
       <li>📄 Know about my experiences <a href="https://www.vishomallaoli.com/SWEresume.pdf">Résumé</a></li>
     </ul>
 
-    <h3>Connect with me:</h3>
-    <p>
-      <a href="https://linkedin.com/in/vishomallaoli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-      <a href="https://kaggle.com/vishomallaoli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-      <a href="https://www.leetcode.com/vishomallaoli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-      <a href="https://discord.gg/_lionide"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
-    </p>
+    **Connect with me:**
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/vishomallaoli)
+[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/vishomallaoli)
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/vishomallaoli)
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/_lionide)
+
   </div>
 
   <!-- Right column -->
