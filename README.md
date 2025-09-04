@@ -14,42 +14,33 @@
 </p>
 
 <!-- Two-column layout -->
-<table>
-  <tr>
-    <td width="58%" valign="top">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <!-- Left column -->
+  <div>
+    <ul>
+      <li>🔭 I’m researching on <a href="https://github.com/vishomallaoli/neural-bus-schema">Neural Bus Schema</a></li>
+      <li>👨‍💻 I’m collaborating with Red Louts on <a href="https://github.com/vishomallaoli/red-lotus-ner-model">eBay ML Competition 2025</a></li>
+      <li>🤝 I’m looking for help with <a href="https://github.com/vishomallaoli/event-master">Eventmaster</a></li>
+      <li>📄 Know about my experiences <a href="https://www.vishomallaoli.com/SWEresume.pdf">Résumé</a></li>
+    </ul>
 
-      <!-- Left: bullets -->
-      <ul>
-        <li>🔭 I’m researching on <a href="https://github.com/vishomallaoli/neural-bus-schema">Neural Bus Schema</a></li>
-        <li>👨‍💻 I’m collaborating with Red Louts on <a href="https://github.com/vishomallaoli/red-lotus-ner-model">eBay ML Competition 2025</a></li>
-        <li>🤝 I’m looking for help with <a href="https://github.com/vishomallaoli/event-master">Eventmaster</a></li>
-        <li>📄 Know about my experiences <a href="https://www.vishomallaoli.com/SWEresume.pdf">Résumé</a></li>
-      </ul>
+    <h3>Connect with me:</h3>
+    <p>
+      <a href="https://linkedin.com/in/vishomallaoli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+      <a href="https://kaggle.com/vishomallaoli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+      <a href="https://www.leetcode.com/vishomallaoli"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+      <a href="https://discord.gg/_lionide"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+    </p>
+  </div>
 
-      <!-- Left: social links -->
-      <h3>Connect with me:</h3>
-      <p>
-        <a href="https://linkedin.com/in/vishomallaoli" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishomallaoli" height="30" width="40" />
-        </a>
-        <a href="https://kaggle.com/vishomallaoli" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishomallaoli" height="30" width="40" />
-        </a>
-        <a href="https://www.leetcode.com/vishomallaoli" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishomallaoli" height="30" width="40" />
-        </a>
-        <a href="https://discord.gg/_lionide" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_lionide" height="30" width="40" />
-        </a>
-      </p>
+  <!-- Right column -->
+  <div>
+    <img alt="Visho's Image" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
+  </div>
+  
+</div>
 
-    </td>
-    <td width="42%" valign="top" align="right">
-      <!-- Right: GIF -->
-      <img alt="Visho's Image" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
-    </td>
-  </tr>
-</table>
 
 <!-- Below both: Languages & Tools -->
 <h3>Languages and Tools:</h3>
