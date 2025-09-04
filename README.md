@@ -20,7 +20,7 @@
 - 🎓 Honors Computer Science Senior @ [Ole Miss](https://olemiss.edu) | Class of 2026  
 - 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema) for my senior year project.  
 - 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)  
-- 💭 We can chat about **AI Multimodality & Cross-modal communication** particularly on Vision & Language Models  
+- 💭 We can chat about **AI Multimodality** particularly on Vision & Language Models  
 - 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)  
 
 **Connect with me:**  
