@@ -14,34 +14,28 @@
 </p>
 
 
-  <!-- Right column -->
-<img alt="Visho's Image" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
-<!-- Left column -->
+ <img align="right" alt="Visho's Image" width = "400" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+- 👾 Honors Computer Science Senior
 
-- 🎓 Honors Computer Science Senior @ [Ole Miss](https://olemiss.edu) | Class of 2026  
-- 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema) for my senior year project.  
-- 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)  
-- 💭 We can chat about **AI Multimodality** particularly on Vision & Language Models  
-- 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)  
+- 🎓 Class of 2026 @ [Ole Miss](https://olemiss.edu)
 
-**Connect with me:**
+- 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema)
 
+- 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)
 
-  <a href="https://linkedin.com/in/vishomallaoli">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+- 🪜 Interned @ [Insituform](https://www.azuria.com/insituform) on Summer 2025
 
-  <a href="https://kaggle.com/vishomallaoli">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-  </a>
+- 👯 I’m collaborating with Fellowship.AI on [LLM Financial Web Agent](https://github.com/vishomallaoli/binary-image-growing-algorithm)
 
-  <a href="https://www.leetcode.com/vishomallaoli">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+- 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)
 
-  <a href="https://discord.gg/_lionide">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vishomallaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishomallaoli" height="30" width="40" /></a>
+<a href="https://kaggle.com/vishomallaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishomallaoli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishomallaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishomallaoli" height="30" width="40" /></a>
+<a href="https://discord.gg/_lionide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_lionide" height="30" width="40" /></a>
+</p>
 
 
 
