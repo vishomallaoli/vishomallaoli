@@ -25,7 +25,11 @@
       <li>📄 Know about my experiences <a href="https://www.vishomallaoli.com/SWEresume.pdf">Résumé</a></li>
     </ul>
 
-    <b>Connect with me:</b><br>
+    
+
+
+  </div>'
+  <b>Connect with me:</b><br>
     <a href="https://linkedin.com/in/vishomallaoli">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
     </a>
@@ -38,9 +42,6 @@
     <a href="https://discord.gg/_lionide">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
     </a>
-
-
-  </div>
 
   <!-- Right column -->
   <div>
