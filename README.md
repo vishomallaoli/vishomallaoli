@@ -12,18 +12,18 @@
     <img src="https://github-profile-trophy.vercel.app/?username=vishomallaoli&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=8" alt="vishomallaoli trophies"/>
   </a>
 </p>
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-<td width="50%" valign="top" style="border: none;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-- 🎓 Honors Computer Science Senior @ [Ole Miss](https://olemiss.edu) | Class of 2026
-- 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema) for my senior year project.
-- 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)
-- 💭 We can chat about **AI Multimodality & Cross-modal communication** particularly on Vision & Language Models
-- 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)
+  <!-- Left column -->
+  <div style="flex: 1; min-width: 300px;">
+    
+- 🎓 Honors Computer Science Senior @ [Ole Miss](https://olemiss.edu) | Class of 2026  
+- 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema) for my senior year project.  
+- 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)  
+- 💭 We can chat about **AI Multimodality & Cross-modal communication** particularly on Vision & Language Models  
+- 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)  
 
-**Connect with me:**
-<br>
+**Connect with me:**  
 <a href="https://linkedin.com/in/vishomallaoli">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -37,14 +37,15 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 
-</td>
-<td width="50%" align="center" valign="middle" style="border: none;">
+  </div>
 
-<img alt="Visho's Image" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
+  <!-- Right column -->
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img alt="Visho's Image" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
+  </div>
 
-</td>
-</tr>
-</table>
+</div>
+
 
 <!-- Below both: Languages & Tools -->
 <h3>Languages and Tools:</h3>
