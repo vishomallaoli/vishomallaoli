@@ -23,21 +23,28 @@
 - 💭 We can chat about **AI Multimodality** particularly on Vision & Language Models  
 - 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)  
 
-**Connect with me:**  
-<a href="https://linkedin.com/in/vishomallaoli">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/vishomallaoli">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/vishomallaoli">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://discord.gg/_lionide">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-</a>
+**Connect with me:**
 
-  </div>
+<div style="display: flex; gap: 15px; align-items: center; margin-top: 8px;">
+
+  <a href="https://linkedin.com/in/vishomallaoli">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://kaggle.com/vishomallaoli">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://www.leetcode.com/vishomallaoli">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://discord.gg/_lionide">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  </a>
+
+</div>
+
 
   <!-- Right column -->
   <div style="flex: 1; text-align: center; min-width: 250px;">
