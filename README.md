@@ -42,7 +42,7 @@
 
 
   <!-- Right column -->
-    <img alt="Visho's Image" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
+<img alt="Visho's Image" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
 
 <!-- Below both: Languages & Tools -->
