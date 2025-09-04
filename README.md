@@ -6,21 +6,21 @@
   <img src="https://komarev.com/ghpvc/?username=vishomallaoli&label=Profile%20views&color=0e75b6&style=flat" alt="vishomallaoli" />
 </p>
 
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishomallaoli&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=8" alt="vishomallaoli trophies"/>
+  </a>
+</p>
+
+<!-- Right-side Image -->
+<img align="right" alt="Visho's Image" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+
 - 🔭 I’m researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema)  
 - 👨‍💻 I’m collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)  
 - 🤝 I’m looking for help with [Eventmaster](https://github.com/vishomallaoli/event-master)  
 - 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)  
 
-<!-- Stats: Languages + GitHub Status side by side -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishomallaoli&show_icons=true&locale=en&layout=compact" height="165" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishomallaoli&show_icons=true&locale=en" height="165" alt="GitHub Stats"/>
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishomallaoli" alt="GitHub Streak"/>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
