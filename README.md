@@ -14,7 +14,6 @@
 </p>
 
 <!-- Left column -->
-<div style="flex: 1; min-width: 300px;">
     
 - 🎓 Honors Computer Science Senior @ [Ole Miss](https://olemiss.edu) | Class of 2026  
 - 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema) for my senior year project.  
@@ -24,7 +23,6 @@
 
 **Connect with me:**
 
-<div style="display: flex; gap: 15px; align-items: center; margin-top: 8px;">
 
   <a href="https://linkedin.com/in/vishomallaoli">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -42,15 +40,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
   </a>
 
-</div>
-
 
   <!-- Right column -->
-  <div style="flex: 1; text-align: center; min-width: 250px;">
     <img alt="Visho's Image" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
-  </div>
-
-</div>
 
 
 <!-- Below both: Languages & Tools -->
