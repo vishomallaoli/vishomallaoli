@@ -12,9 +12,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=vishomallaoli&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=8" alt="vishomallaoli trophies"/>
   </a>
 </p>
-<div style="width: 100%;">
-  <div style="display: inline-block; width: 48%; vertical-align: top; margin-right: 2%;">
-    
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
+
 - 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema)
 - 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)
 - 🤝 I'm looking for help with [Eventmaster](https://github.com/vishomallaoli/event-master)
@@ -35,13 +36,14 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
 </a>
 
-  </div>
-  <div style="display: inline-block; width: 48%; text-align: center; vertical-align: middle;">
-    
+</td>
+<td width="50%" align="center" valign="middle" style="border: none;">
+
 <img alt="Visho's Image" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm93YjV6aHJ3bnp0cWl0cTh3bjUxc3c3dWw4OWoyMWZzMWV3MDgzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
-  </div>
-</div>
+</td>
+</tr>
+</table>
 
 <!-- Below both: Languages & Tools -->
 <h3>Languages and Tools:</h3>
