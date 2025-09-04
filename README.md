@@ -13,9 +13,7 @@
 
 - 🤝 I’m looking for help with [Eventmaster](https://github.com/vishomallaoli/event-master)
 
-- 💬 Ask me about **AI Multimodality**
-
-- 📄 Know about my experiences [https://www.vishomallaoli.com/SWEresume.pdf](https://www.vishomallaoli.com/SWEresume.pdf)
+- 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
