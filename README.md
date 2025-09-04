@@ -12,10 +12,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=vishomallaoli&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=8" alt="vishomallaoli trophies"/>
   </a>
 </p>
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-  <!-- Left column -->
-  <div style="flex: 1; min-width: 300px;">
+<!-- Left column -->
+<div style="flex: 1; min-width: 300px;">
     
 - 🎓 Honors Computer Science Senior @ [Ole Miss](https://olemiss.edu) | Class of 2026  
 - 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema) for my senior year project.  
