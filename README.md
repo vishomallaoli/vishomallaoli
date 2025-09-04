@@ -1,6 +1,3 @@
-Here you go — left column = bullets + “Connect with me”, right column = GIF, and “Languages & Tools” below both.
-
-```markdown
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://vishomallaoli.com)
 <h1 align="center">🙋🏻‍♂️ I'm Visho</h1>
 <h3 align="center">AI Systems Architect</h3>
@@ -96,6 +93,3 @@ Here you go — left column = bullets + “Connect with me”, right column = GI
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishomallaoli&show_icons=true&locale=en&layout=compact" alt="vishomallaoli" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vishomallaoli&show_icons=true&locale=en" alt="vishomallaoli" height="165"/>
 </p>
-```
-
-If you want the two columns to be tighter or wider, tweak the `width` values on the `<td>`s.
