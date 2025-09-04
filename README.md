@@ -16,9 +16,10 @@
 <tr>
 <td width="50%" valign="top" style="border: none;">
 
-- 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema)
+- 🎓 Honors Computer Science Senior @ [Ole Miss](https://olemiss.edu) | Class of 2026
+- 🔭 I'm researching on [Neural Bus Schema](https://github.com/vishomallaoli/neural-bus-schema) for my senior year project.
 - 👨‍💻 I'm collaborating with Red Louts on [eBay ML Competition 2025](https://github.com/vishomallaoli/red-lotus-ner-model)
-- 🤝 I'm looking for help with [Eventmaster](https://github.com/vishomallaoli/event-master)
+- 💭 We can chat about **Cross Modal Communication** particularly on Vision & Language Models
 - 📄 Know about my experiences [Résumé](https://www.vishomallaoli.com/SWEresume.pdf)
 
 **Connect with me:**
